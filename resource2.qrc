@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/ui2">
+        <file>win.jpg</file>
+        <file>stage3.png</file>
+        <file>background3.png</file>
+    </qresource>
+    <qresource prefix="/skill">
+        <file>gameshield.png</file>
+    </qresource>
+    <qresource prefix="/item">
+        <file>healthpack.png</file>
+        <file>meteor.png</file>
+    </qresource>
+    <qresource prefix="/media"/>
+    <qresource prefix="/boss">
+        <file>boss.png</file>
+    </qresource>
+</RCC>

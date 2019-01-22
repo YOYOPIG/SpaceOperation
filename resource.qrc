@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>background.jpg</file>
+        <file>player.png</file>
+        <file>bullet1.png</file>
+    </qresource>
+    <qresource prefix="/enemy">
+        <file>ebullet.png</file>
+        <file>bot.png</file>
+        <file>ufo.png</file>
+        <file>ufo2.png</file>
+        <file>ufo3.png</file>
+        <file>jet.png</file>
+        <file>ebullet2.png</file>
+    </qresource>
+    <qresource prefix="/ui">
+        <file>resource/menu.jpg</file>
+        <file>resource/button1.png</file>
+        <file>resource/button2.png</file>
+        <file>resource/button3.png</file>
+        <file>resource/background.png</file>
+        <file>resource/stage1.png</file>
+        <file>resource/stage2.png</file>
+        <file>resource/background1.png</file>
+        <file>resource/button4.png</file>
+        <file>resource/lose.jpg</file>
+        <file>resource/white.png</file>
+        <file>resource/hangar.jpg</file>
+    </qresource>
+    <qresource prefix="/hangar">
+        <file>plane2.png</file>
+        <file>plane1.png</file>
+        <file>lockicon.png</file>
+        <file>heal.png</file>
+        <file>shield.png</file>
+        <file>unknown.png</file>
+    </qresource>
+</RCC>
